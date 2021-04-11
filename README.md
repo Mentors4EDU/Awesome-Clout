@@ -9,3 +9,5 @@ List of different things built w/ BitClout
 [JobsClout](http://jobclout.me/): A jobs board powered by BitClout  
 [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics  
 [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+
+**Disclaimer: This isn't investment advice, simply just a list of tools. Anything you decide to do is at your own risk.**

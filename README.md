@@ -1,5 +1,5 @@
 # Awesome Clout
-List of different things built w/ BitClout  | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+List of different things built w/ BitClout  | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/Awesome-Clout)
 
 [Cloutify](https://chrome.google.com/webstore/detail/cloutify-show-bitclout-pr/mmpacdkjmmnichfpplcpcipgcdphfhdg): Show Bitclout price tickers on Twitter  
 [BitSwap](https://bitswap.network/): Buy and sell BitClout for Ethereum  

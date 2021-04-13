@@ -8,8 +8,9 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 5. [CloutGate](https://cloutgate.com/): Track and analyze creator coins  
 6. [JobsClout](http://jobclout.me/): A jobs board powered by BitClout  
 7. [ShopClout](http://shopclout.me/): Swap your BitClout for products  
-8. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics  
-9. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+8. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko  
+9. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics  
+10. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

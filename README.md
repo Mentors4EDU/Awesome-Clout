@@ -18,6 +18,7 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 15. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
 16. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
 17. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+18. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

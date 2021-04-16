@@ -15,11 +15,13 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 12. [ShopClout](http://shopclout.me/): Swap your BitClout for products
 13. [GreedClout](https://bogdandidenko.github.io/greedclout/): Creator coin price calculator
 14. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
-15. [BItCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
-16. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-17. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-18. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-19. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+15. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
+16. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
+17. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
+18. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
+19. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+20. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+21. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

@@ -20,12 +20,14 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 17. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
 18. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
 19. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
-20. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
-21. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-22. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-23. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
-24. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-25. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+20. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
+21. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
+22. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
+23. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+24. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
+25. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
+26. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+27. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

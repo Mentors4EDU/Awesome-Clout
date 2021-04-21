@@ -18,15 +18,15 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 15 [GreedClout](https://bogdandidenko.github.io/greedclout/): Creator coin price calculator
 16 [OhMyClout](https://ohmyclout.com/): Telegram bot to track coin transactions
 17 [WhenActive](https://whenactive.com/global): Interact with engaging BitClout posts
-20. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
-21. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
-22. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
-23. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
-24. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
-25. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
-26. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-27. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-28. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
+18. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
+19. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
+20. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
+21. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
+22. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
+23. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
+24. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
+25. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+26. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
 29. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
 30. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
 31. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout

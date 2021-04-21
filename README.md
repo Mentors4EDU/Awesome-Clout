@@ -12,12 +12,12 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 9. [CharCoin](https://charcoin.io/): Airdrop NFTs to your top coin holders
 10. [BitClout+](https://bitclout.plus/): A BitClout Chrome/Brave browser extension
 11. [FilmClout](https://bitclout.com/u/FilmClout): Indie film crowdfunding w/ BitClout
-12 [CloutGate](https://cloutgate.com/): Track and analyze creator coins
-13 [JobsClout](http://jobclout.me/): A jobs board powered by BitClout
-14 [ShopClout](http://shopclout.me/): Swap your BitClout for products
-15 [GreedClout](https://bogdandidenko.github.io/greedclout/): Creator coin price calculator
-16 [OhMyClout](https://ohmyclout.com/): Telegram bot to track coin transactions
-17 [WhenActive](https://whenactive.com/global): Interact with engaging BitClout posts
+12. [CloutGate](https://cloutgate.com/): Track and analyze creator coins
+13. [JobsClout](http://jobclout.me/): A jobs board powered by BitClout
+14. [ShopClout](http://shopclout.me/): Swap your BitClout for products
+15. [GreedClout](https://bogdandidenko.github.io/greedclout/): Creator coin price calculator
+16. [OhMyClout](https://ohmyclout.com/): Telegram bot to track coin transactions
+17. [WhenActive](https://whenactive.com/global): Interact with engaging BitClout posts
 18. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
 19. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
 20. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
@@ -27,9 +27,9 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 24. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
 25. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
 26. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
-29. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
-30. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-31. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+27. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
+28. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+29. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

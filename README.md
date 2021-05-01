@@ -32,7 +32,7 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 29. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
 30. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
 31. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
-32. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to trade history of creators
+32. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

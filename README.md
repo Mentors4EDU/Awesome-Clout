@@ -4,7 +4,7 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 1. [Raffle](https://bitcloutraffle.com/): A raffle that is powered by BitClout
 2. [Cloutie](https://bitclout.com/u/CloutieApp): An IOS & MacOS app for BitClout
 3. [Cloutify](https://chrome.google.com/webstore/detail/cloutify-show-bitclout-pr/mmpacdkjmmnichfpplcpcipgcdphfhdg): Show Bitclout price tickers on Twitter
-4. [CharCoin](https://charcoin.io/): Airdrop NFTs to your top coin holders
+4. [Charcoin](https://charcoin.io/): Airdrop NFTs to your top coin holders
 5. [BitSwap](https://bitswap.network/): Buy and sell BitClout for Ethereum
 6. [DivClout](https://www.divclout.com/): Dividends for your coin holders
 7. [Subclout](https://www.subclout.com/): Offer a paid newsletter to your supporters

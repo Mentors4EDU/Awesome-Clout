@@ -6,7 +6,6 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 4. [Cloutify](https://chrome.google.com/webstore/detail/cloutify-show-bitclout-pr/mmpacdkjmmnichfpplcpcipgcdphfhdg): Show Bitclout price tickers on Twitter
 5. [BitSwap](https://bitswap.network/): Buy and sell BitClout for Ethereum
 6. [DivClout](https://www.divclout.com/): Dividends for your coin holders
-7. [Charcoin](https://charcoin.io/): Airdrop NFTs to your top coin holders
 8. [Subclout](https://www.subclout.com/): Offer a paid newsletter to your supporters
 9. [GiftClout](https://www.giftclout.com/): Get gifted free some BitClout
 10. [CloutPoll](https://cloutpoll.com/): Polls for your BitClout audience

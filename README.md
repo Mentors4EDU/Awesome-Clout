@@ -9,8 +9,7 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 8. [Subclout](https://www.subclout.com/): Offer a paid newsletter to your supporters
 9. [GiftClout](https://www.giftclout.com/): Get gifted free some BitClout
 10. [CloutPoll](https://cloutpoll.com/): Polls for your BitClout audience
-11. [CharCoin](https://charcoin.io/): Airdrop NFTs to your top coin holders
-12. [BitClout+](https://bitclout.plus/): A BitClout Chrome/Brave browser extension
+11. [BitClout+](https://bitclout.plus/): A BitClout Chrome/Brave browser extension
 13. [FilmClout](https://bitclout.com/u/FilmClout): Indie film crowdfunding w/ BitClout
 14. [CloutCast](https://cloutcast.io/): Promotions engine for BitClout
 15. [CloutGate](https://cloutgate.com/): Track and analyze creator coins

@@ -15,9 +15,9 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 13. [CloutPoll](https://cloutpoll.com/): Polls for your BitClout audience
 14. [BitClout+](https://bitclout.plus/): A BitClout Chrome/Brave browser extension
 15. [FilmClout](https://bitclout.com/u/FilmClout): Indie film crowdfunding w/ BitClout
-16. [CloutCast](https://cloutcast.io/): Promotions engine for BitClout
-17. [JobsClout](http://jobclout.me/): A jobs board powered by BitClout
-18. [CloutPool](https://bitclout.com/u/CloutPool): Mining/Node hosting for BitClout
+16. [CloutPool](https://bitclout.com/u/CloutPool): Mining/Node hosting for BitClout
+17. [CloutCast](https://cloutcast.io/): Promotions engine for BitClout
+18. [JobsClout](http://jobclout.me/): A jobs board powered by BitClout
 19. [CloutLock](https://bitclout.com/u/CloutLockl): Open-source hardware wallets
 20. [CloutGate](https://cloutgate.com/): Track and analyze creator coins
 21. [BitCloutIQ](https://bitcloutiq.net/): Portfolio dashboard for BitClout

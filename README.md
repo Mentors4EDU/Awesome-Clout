@@ -33,8 +33,8 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 31. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
 32. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
 33. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
-34. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
-35. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
+34. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
+35. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
 36. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
 37. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
 38. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest

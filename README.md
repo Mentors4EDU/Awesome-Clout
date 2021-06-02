@@ -1,6 +1,6 @@
 List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/Awesome-Clout)
 
-1. [FBZ](https://github.com/Mentors4EDU/FBZ): OpenBazaar Fork that takes  BitClout
+1. [FBZ](https://github.com/Mentors4EDU/FBZ): OpenBazaar fork that takes  BitClout
 2. [CIPs](https://github.com/Mentors4EDU/BitClout-Proposals): Submit improvement proposals
 3. [Raffle](https://bitcloutraffle.com/): A raffle that is powered by BitClout
 4. [AMKN](https://peer-social.com/): A personal brand page for AMKN

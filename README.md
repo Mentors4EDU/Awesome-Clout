@@ -22,8 +22,8 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 20. [CloutGate](https://cloutgate.com/): Track and analyze creator coins
 21. [BitCloutIQ](https://bitcloutiq.net/): Portfolio dashboard for BitClout
 22. [ShopClout](http://shopclout.me/): Swap your BitClout for products
-23. [Project List](https://project-list.io/): Simple job board for BitClout projects
-24. [Cloutathon](https://cloutathon.com/): Dev competitions for BitClout users
+23. [Cloutathon](https://cloutathon.com/): Dev competitions for BitClout users
+24. [Project List](https://project-list.io/): Simple job board for BitClout projects
 25. [OhMyClout](https://ohmyclout.com/): Telegram bot to track coin transactions
 26. [GreedClout](https://bogdandidenko.github.io/greedclout/): Creator coin price calculator
 27. [CloutWallet](https://bitclout.com/u/cloutwallet): Mobile creator wallet and coin tracker

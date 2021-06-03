@@ -34,7 +34,7 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 32. [WhenActive](https://whenactive.com/global): Interact with engaging BitClout posts
 33. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
 34. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
-35. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator
+35. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator and stats
 36. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
 37. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
 38. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators

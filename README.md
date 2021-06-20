@@ -40,14 +40,15 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 38. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
 39. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
 40. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-41. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
-42. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-43. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
-44. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
-45. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-46. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
-47. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
-48. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
+41. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
+42. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
+43. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+44. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
+45. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
+46. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+47. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+48. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
+49. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

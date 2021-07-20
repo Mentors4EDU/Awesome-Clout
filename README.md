@@ -6,12 +6,12 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 4. [ADM](https://github.com/CloutContracts/ADM): Anti-dumping mechanism for creators
 5. [Raffle](https://bitcloutraffle.com/): A raffle that is powered by BitClout
 6. [AMKN](https://peer-social.com/): A personal brand page for AMKN
-7. [HYPED](https://hypedtickets.com/): A ticket management solution on BitClout
-8. [Cloutie](https://bitclout.com/u/CloutieApp): An IOS & MacOS app for BitClout
-9. [InClout](https://inclout.io/): Extension for linking social media profiles
-10. [Cloutini](https://cloutini.com/): Further search BitClout in realtime
-11. [Cloutify](https://chrome.google.com/webstore/detail/cloutify-show-bitclout-pr/mmpacdkjmmnichfpplcpcipgcdphfhdg): Show Bitclout price tickers on Twitter
-12. [Clouteo](https://www.clouteo.co/book-shout-out): Book shoutouts from your favorite creators
+7. [Cloutie](https://bitclout.com/u/CloutieApp): An IOS & MacOS app for BitClout
+8. [InClout](https://inclout.io/): Extension for linking social media profiles
+9. [Cloutini](https://cloutini.com/): Further search BitClout in realtime
+10. [Cloutify](https://chrome.google.com/webstore/detail/cloutify-show-bitclout-pr/mmpacdkjmmnichfpplcpcipgcdphfhdg): Show Bitclout price tickers on Twitter
+11. [Clouteo](https://www.clouteo.co/book-shout-out): Book shoutouts from your favorite creators
+12. [HYPED](https://hypedtickets.com/): A ticket management solution on BitClout
 13. [BitSwap](https://bitswap.network/): Buy and sell BitClout for Ethereum
 14. [adclouts](https://adclouts.com/): Earn BitClout for reclouts (advertising)
 15. [Audiono](https://audiono.de/): Different services for music creators

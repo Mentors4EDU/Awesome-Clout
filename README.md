@@ -39,22 +39,23 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 37. [Clout Email](https://cloutemail.com/): Updates and messages to your inbox
 38. [BitLauncher](https://bitlauncher.net/): A BitClout accelerator for small projects
 39. [WhenActive](https://whenactive.com/global): Interact with engaging BitClout posts
-40. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
-41. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
-42. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator and stats
-43. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
-44. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
-45. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
-46. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-47. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
-48. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
-49. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-50. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
-51. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
-52. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-53. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
-54. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
-55. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
+40. [Supernovas](https://www.supernovas.app/): A NFT-focused BitClout node
+41. [BitClout API](https://github.com/benjaminwoods/bitclout): Unofficial BitClout API powered by Taiko
+42. [BitCloutHunt](https://www.bitclouthunt.com/): Discover and track BitClout projects
+43. [ProsperClout](https://www.prosperclout.com/): Creator coin trade simulator and stats
+44. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
+45. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
+46. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
+47. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
+48. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
+49. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
+50. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+51. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
+52. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
+53. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+54. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+55. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
+56. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

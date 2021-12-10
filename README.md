@@ -52,15 +52,16 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 50. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
 51. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
 52. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
-53. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
-54. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-55. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
-56. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
-57. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-58. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
-59. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
-60. [WUN Virtual Card](https://wun.vc/): Discover and support BitClout creators
-61. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
+53. [DeSocialWorld](https://desocialworld.com/): Provides feed w/ multi-language support
+54. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
+55. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
+56. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
+57. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
+58. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+59. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+60. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
+61. [WUN Virtual Card](https://wun.vc/): Discover and support BitClout creators
+62. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

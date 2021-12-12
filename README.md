@@ -65,4 +65,4 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 
-**Disclaimer: This isn't investment advice, simply just a list of tools. Anything you decide to do is at your own risk.**https://clubroo.ms
+**Disclaimer: This isn't investment advice, simply just a list of tools. Anything you decide to do is at your own risk.

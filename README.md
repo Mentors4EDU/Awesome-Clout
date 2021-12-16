@@ -56,13 +56,14 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 54. [DeSocialWorld](https://desocialworld.com/): Provides feed w/ multi-language support
 55. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
 56. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
-57. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
-58. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
-59. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-60. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
-61. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
-62. [WUN Virtual Card](https://wun.vc/): Discover and support BitClout creators
-63. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
+57. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
+58. [Everything Store](https://www.everythingstore.io/): An eCommerce marketplace for BitClout
+59. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
+60. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
+61. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
+62. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
+63. [WUN Virtual Card](https://wun.vc/): Discover and support BitClout creators
+64. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
 
 [![Bitclout](https://img.shields.io/badge/-Follow%20me%20on%20BitClout-red)](https://bitclout.com/u/AMKN)
 

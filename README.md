@@ -56,10 +56,10 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 54. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
 55. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
 56. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
-57. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-58. [DeSocialWorld](https://desocialworld.com/): Provides feed w/ multi-language support
-59. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
-60. [BitCloutOffers](https://bitclout.com/u/BitCloutOffers): DeSo/BitClout's social events calendar
+57. [BitCloutOffers](https://bitclout.com/u/BitCloutOffers): DeSo/BitClout's social events calendar
+58. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
+59. [DeSocialWorld](https://desocialworld.com/): Provides feed w/ multi-language support
+60. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
 61. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
 62. [BitClout Insights](https://bitcloutinsights.com/): Find out anybody's wallet holdings
 63. [Everything Store](https://www.everythingstore.io/): An eCommerce marketplace for BitClout

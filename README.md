@@ -29,11 +29,11 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 27. [CloutCast](https://cloutcast.io/): Promotions engine for BitClout
 28. [CloutPool](https://bitclout.com/u/CloutPool): Mining/Node hosting for BitClout
 29. [JobsClout](http://jobclout.me/): A jobs board powered by BitClout
-30. [CloutLock](https://bitclout.com/u/CloutLockl): Open-source hardware wallets
-31. [CloutGate](https://cloutgate.com/): Track and analyze creator coins
-32. [CloutTalks](https://typedream.app/clouttalks): A talk show regarding DeSo creators
-33. [BitCloutIQ](https://bitcloutiq.net/): Portfolio dashboard for BitClout
-34. [BitBadges](http://bitbadges.web.app/): Issue NFT badges through BitClout
+30. [BitBadges](http://bitbadges.web.app/): Issue NFT badges through BitClout
+31. [CloutLock](https://bitclout.com/u/CloutLockl): Open-source hardware wallets
+32. [CloutGate](https://cloutgate.com/): Track and analyze creator coins
+33. [CloutTalks](https://typedream.app/clouttalks): A talk show regarding DeSo creators
+34. [BitCloutIQ](https://bitcloutiq.net/): Portfolio dashboard for BitClout
 35. [ShopClout](http://shopclout.me/): Swap your BitClout for products
 36. [Clubrooms](https://clubroo.ms): Exclusive video/audio chat rooms for holders
 37. [Cloutscape](https://cloutscape.net/): Curated feeds by hashtags for BitClout

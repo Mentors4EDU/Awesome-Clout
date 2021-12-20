@@ -14,9 +14,9 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 12. [Cloutify](https://chrome.google.com/webstore/detail/cloutify-show-bitclout-pr/mmpacdkjmmnichfpplcpcipgcdphfhdg): Show Bitclout price tickers on Twitter
 13. [Clouteo](https://www.clouteo.co/book-shout-out): Book shoutouts from your favorite creators
 14. [HYPED](https://hypedtickets.com/): A ticket management solution on BitClout
-15. [BitSwap](https://bitswap.network/): Buy and sell BitClout for Ethereum
-16. [adclouts](https://adclouts.com/): Earn BitClout for reclouts (advertising)
-17. [Audiono](https://audiono.de/): Different services for music creators
+15. [Audiono](https://audiono.de/): Different services for music creators
+16. [BitSwap](https://bitswap.network/): Buy and sell BitClout for Ethereum
+17. [adclouts](https://adclouts.com/): Earn BitClout for reclouts (advertising)
 18. [DivClout](https://www.divclout.com/): Dividends for your coin holders
 19. [Subclout](https://www.subclout.com/): Offer a paid newsletter to your supporters
 20. [GiftClout](https://www.giftclout.com/): Get gifted free some BitClout
@@ -35,9 +35,9 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 33. [CloutTalks](https://typedream.app/clouttalks): A talk show regarding DeSo creators
 34. [BitCloutIQ](https://bitcloutiq.net/): Portfolio dashboard for BitClout
 35. [ShopClout](http://shopclout.me/): Swap your BitClout for products
-36. [Clubrooms](https://clubroo.ms): Exclusive video/audio chat rooms for holders
-37. [Cloutscape](https://cloutscape.net/): Curated feeds by hashtags for BitClout
-38. [Cloutathon](https://cloutathon.com/): Dev competitions for BitClout users
+36. [Cloutathon](https://cloutathon.com/): Dev competitions for BitClout users
+37. [Clubrooms](https://clubroo.ms): Exclusive video/audio chat rooms for holders
+38. [Cloutscape](https://cloutscape.net/): Curated feeds by hashtags for BitClout
 39. [Project List](https://project-list.io/): Simple job board for BitClout projects
 40. [Cloutavista](https://cloutavista.com/): Advanced BitClout search engine
 41. [CloutInstall](https://cloutinstall.app): BitClout App store w/ a flat UI
@@ -55,8 +55,8 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 53. [BitCloutWow](https://chrome.google.com/webstore/detail/bitcloutwow-bitclout-on-t/pljnngphhkadegjpkajkcigimjdheedd?hl=en&authuser=1): Visualize BitClout data on Twitter w/ Chrome
 54. [Moonbounce](https://getmoonbounce.com/): Offer exclusive content for your supporters
 55. [CloutBubbles](https://cloutbubbles.com/): Interactive bubble charts for top creators
-56. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
-57. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
+56. [Kronos Wallet](https://kronoswallet.com/): A simple BIP39 seed phrase wallet
+57. [BitClout Pulse](https://www.bitcloutpulse.com/): Track top creators and analytics
 58. [DeSocialWorld](https://desocialworld.com/): Provides feed w/ multi-language support
 59. [CloutContracts](https://bitclout.com/u/cloutcontracts): Smart contracts rollup for BitClout
 60. [BitClout Follow](https://bitcloutfollow.com/): Discover BitClout users by interest
@@ -64,8 +64,8 @@ List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.c
 62. [Everything Store](https://www.everythingstore.io/): An eCommerce marketplace for BitClout
 63. [BitClout Express](https://bitclout.express/): A telegram bot for HODLers
 64. [Seeking BitClout](https://seekingbitclout.com/): Seeking undervalued BitClout assets
-65. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
-66. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
+65. [Pay with BitClout](https://bitclout.com/u/PayWithBitClout): Sell and buy things w/ BitClout
+66. [BitClout Analysis](https://www.bitcloutanalysis.com/): The website to analyze BitClout
 67. [WUN Virtual Card](https://wun.vc/): Discover and support BitClout creators
 68. [BitClout WalletTracker](https://chrome.google.com/webstore/detail/bitclout-wallettracker/kgafnekhkfjhjjdmlobajeppoehmjbba): Get access to creator trade history
 

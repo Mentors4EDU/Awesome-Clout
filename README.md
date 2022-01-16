@@ -1,4 +1,5 @@
-List of different things powered by BitClout  | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/Awesome-Clout)
+# Awesome-Clout  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/Awesome-Clout)
+**List of different things powered by BitClout**
 
 1. [FBZ](https://github.com/Mentors4EDU/FBZ): OpenBazaar fork that takes  BitClout
 2. [CVL](https://www.cvl.ac/): Community-based verification service
